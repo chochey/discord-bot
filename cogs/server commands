@@ -1,0 +1,11 @@
+Palworld Server Commands
+!palworldrestartserver - Restart the Palworld server.
+!palworldserverstatus - Check the status of the Palworld server.
+!palworldbackup - Create a backup of the Palworld server.
+!palworldlistbackups - List available backups for the Palworld server.
+
+Satisfactory Server Commands
+!satisfactoryrestartserver - Restart the Satisfactory server.
+!satisfactoryserverstatus - Check the status of the Satisfactory server.
+!satisfactorybackup - Create a backup of the Satisfactory server.
+!satisfactorylistbackups - List available backups for the Satisfactory server.
